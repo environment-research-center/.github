@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, what is ENRC? 👋
 
 <!--
 
